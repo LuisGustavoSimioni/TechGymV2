@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(122, 122, 122);
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav{
+    position: absolute;
+    top: 200px;
+    right: 0;
+}
+
+h1:LogoDoSite{
+    margin-top: 0svb;
+}
